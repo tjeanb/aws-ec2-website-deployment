@@ -27,7 +27,8 @@ http://52.87.193.252
 ---
 
 ## Screenshot
-<img width="602" height="297" alt="P1-nginx-website" src="https://github.com/user-attachments/assets/ce706d3a-c6ad-4a33-b0f2-82232822c01e" />
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/d3b43e06-d812-4b94-ba94-cef0057362e6" />
+
 
 
 
