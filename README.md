@@ -27,7 +27,7 @@ http://52.87.193.252
 ---
 
 ## Screenshot
-<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/d3b43e06-d812-4b94-ba94-cef0057362e6" />
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/9d5feced-aee4-46f0-a157-03ab7ea13154" />
 
 
 
